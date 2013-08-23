@@ -1,7 +1,7 @@
 launch:
     parameters:
         - app-tier-size:
-            description: Number of servers in app tier
+            description: Lock Number of servers in app tier
             default: 1
             min: 1
             max: 20
